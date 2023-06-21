@@ -1,0 +1,140 @@
+>Grundlagen wissenschaftlichen Arbeitens
+-Wissenschaftliche Vorgehensweisen
+*Empirische Forschung vs. Alltagswissen
+*Wahrnehmung und Wirklichkeit 
+*Ethik 
+*Verhältnis Forschende/Erforschte
+-Empirie, Theorie und Hypothesen
+*Induktion vs. Deduktion
+*Wissenschaftstheorie
+*Verifikation und Falsifikation
+*Latente Variablen 
+*Von der Theorie zur Hypothesenprüfung
+-Messen und Testen
+*Messtheorie
+*Testtheorie
+*Skalen und Skalenniveaus
+*Psychometrische Tests 
+*Gütekriterien: Objektivität, Realibilität (Konsistenz & Cronbach’s Alpha) und Validität
+-Datenerhebung
+*Mögliche Formen der Befragung und der Beobachtung
+*Fehlermöglichkeiten und Gegenmaßnahmen
+*Generalisierbarkeit von Ergebnissen
+*Ergebnissen interpretieren und darstellen
+-Experimentaldesign / Versuchsplanung
+*Modellierung
+*Unabhängige und abhängige Variablen
+*Grundlage für Kausalschlüsse
+*within/between subjects
+*Kontrolltechniken und Störfaktoren
+*Interne und externe Validität
+*Unifaktorielle und mehrfaktorielle Versuchspläne (Haupteffekte & Interaktion)
+*Stichprobenziehung aus der Population
+*Quasi-Experimente
+>Deskriptive und explorative Datenanalyse
+-Lage- und Streuungsmaße (univariate Statistik)
+*Verteilungen
+*Box-Plots
+*Lagemaße: Arithmetisches Mittel, Median und Quantile, Modalwert
+*Streungsmaße: Standardabweichung und Varianz, (Inter-)Quantilsabstände
+*Auswahl der richtigen Maße: Skalenniveau und Form der Verteilungen
+*Standardisierung: z-Werte
+-Korrelation
+*Streudiagramme
+*Korrelationsmuster: lineare und kurvilineare Zusammenhänge, Richtung und Stärke von Zusammenhängen
+*Produkt-Moment-Korrelationskoeffizient
+*Korrelation und Kausalität
+*Korrelation zweier dichotomer Merkmale: Phi-Koeffizient
+*Korrelation zweier ordinalskalierter Merkmale: Kendalls Tau
+-Das lineare Modell / Lineare Regression
+*Prädiktor (X) und Kriterium (Y)
+*Deterministische und stochastische Zusammenhänge 
+*Kriterium der kleinsten Quadrate
+*Bestimmung der Regressionsgerade
+*Regressionsgewicht b
+*Regression mit z-standardisierten Variablen
+*Regressionseffekt: Regression zur Mitte
+*Vorhersage von Prädiktor (X) aus Kriterium (Y)
+*Multiple Regression
+-Effektgrößen
+*Bedeutung und Aussagekraft von Effektgrößen
+*Abstandsmaße
+*Zusammenhangsmaße
+*Relatives Risiko
+*Odds Ratio
+>Inferenzstatistik
+-Grundlagen der Inferenzstatistik
+*Wahrscheinlichkeiten
+*Stichprobenverteilung
+*Stichprobengröße
+-Konfidenzintervalle
+*Berechnung von Konfidenzintervallen
+*Konfidenzintervalle für Mittelwerte und Mittelwertsunterschiede
+*Interpretation von Konfidenzintervallen
+-Signifikanztests
+*Signifikante Merkmalsunterschiede 
+*Hypothesen: Nullhypothese und Alternativhypothese
+*Interpretation von p-Werten
+*Einflussfaktoren: Stichprobengröße, α- und β-Fehler, Homogenität der Population
+*Poweranalyse
+*Signifikanztest und Konfidenzintervall 
+*Voraussetzungsprüfung: Parametrische und nicht-parametrische Testverfahren
+-t-Tests
+*Unterschiede zwischen zwei Mittelwerten
+*t-test für unabhängige und abhängige Stichproben 
+*Korrelation und Regressionen
+*Effektgrößenberechnung aus Ergebnissen von t-Tests
+-F-Test der einfaktoriellen Varianzanalyse (ANOVA)
+*Einfaktorielle Varianzanalyse (ANOVA)
+*Post-hoc Tests
+*Effektgrößen
+*Power
+*Quadratsumme und Freiheitsgrade
+-Weitere F-Tests
+*Mehrfaktorielle Varianzanalyse und Interaktionseffekte (Moderation, Mediation)
+* Kovarianzanalyse (ANCOVA)
+-Der F-Test in der einfaktoriellen Varianzanalyse (ANOVA)
+*Voraussetzungen der einfaktoriellen Varianzanalyse
+*Quadratsumme und Freiheitsgrade
+*Effektgrößen
+*Post-hoc Tests
+*Power
+-Weitere F-Tests
+*Mehrfaktorielle Varianzanalyse und Interaktionseffekte
+*Kovarianzanalyse (ANCOVA)
+*Varianzanalyse mit abhängigen Stichproben:
+-Kontrastanalyse
+*Kontraste vs. Omnibustest
+*Kontrastanalyse für abhängige und unabhängige Stichproben
+-Verfahren zur Analyse nominalskalierter Daten: Chi-Quadrat-Tests
+*Chi-Quadrat-Test für eine Variablen
+*Chi-Quadrat-Test für zwei Variablen
+-Verfahren zur Analyse ordinalskalierter Daten
+*U-Test
+*Wilcoxon-Test
+>Das Allgemeine lineare Modell und Regressionsrechnungen
+-Das Allgemeine lineare Modell
+*ANOVA mit zwei Gruppen als Spezialfall der multiplen Regression 
+*ANOVA mit mehr als zwei Gruppen als Spezialfall der multiplen Regression
+-Weitere Regressionsrechnungen
+*Multiple Regression und Analyse nicht-linearer Zusammenhänge
+*Kovarianzanalyse (ANCOVA)
+*Interaktionseffekte: Moderator- und Mediatoranalyse
+*Logistische Regression
+-Indirekte Effekte, latente Variablen und multiple Analyseebenen
+*Pfadanalyse
+*Strukturgleichungsmodell
+*Exploratorische Faktorenanalyse
+*Mehrebenenanalyse
+-Weitere Verfahren der Datenerhebung und Datenanalyse
+*Metaanalyse
+*Qualitative Methoden
+>Datenverarbeitung mithilfe von Statistiksoftware
+-Statistiksoftware
+*R
+*SPSS
+*Stata
+*Jamovi
+
+
+
